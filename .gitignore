@@ -1,15 +1,10 @@
 # ========== Unity =======================
-[Ll]ibrary/
-[Tt]emp/
-[Tt]argets/
-.obj/
-*.booproj
-*.userprefs
-*.csproj
-*.sln
-*.user
-*.pidb
-*.suo
-*.log
-.vscode/
-.idea/
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
